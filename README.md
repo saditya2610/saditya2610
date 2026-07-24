@@ -54,8 +54,13 @@ Seorang pengajar dan praktisi IT yang berfokus pada **Teknologi Multimedia Cerda
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saditya2610&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saditya2610&theme=tokyonight" />
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saditya2610&theme=tokyonight&area=true&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saditya2610&theme=tokyonight&hide_border=true" />
 
 </div>
 
