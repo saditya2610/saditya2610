@@ -18,7 +18,7 @@ Seorang pengajar dan praktisi IT yang berfokus pada **Teknologi Multimedia Cerda
 * 🎓 **Academic**: Dosen S1 Teknik Informatika di **Universitas Abdurrab** & Mahasiswa Pascasarjana **Universitas AMIKOM Yogyakarta** (Konsentrasi: *Big Predictive Data & Analytic*).
 * 🎮 **Community Lead**: Manager & Coordinator di **Gamedev PKU** (Komunitas Game Developer Pekanbaru).
 * 🎬 **Content Creator**: Pemilik channel YouTube **SADIT ID** — Mengulas analisis industri game, teknis game engine, serta *hardware benchmark*.
-* 🔬 **Research Focus**: *Information Retrieval*, *Semantic Representation* (Ensemble Word Embeddings: Word2Vec, FastText, GloVe), dan *Game Engine Architecture*.
+* 🔬 **Research Focus**: *Information Retrieval*, *DNN*,*AI Researcher*,*Semantic Representation* (Ensemble Word Embeddings: Word2Vec, FastText, GloVe), dan *Game Engine Architecture*.
 
 ---
 
