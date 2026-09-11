@@ -70,7 +70,7 @@ Seorang pengajar dan praktisi IT yang berfokus pada **Teknologi Multimedia Cerda
 
 * **YouTube**: [SADIT ID](https://youtube.com/@SADITID)
 * **LinkedIn**: [Surya Aditya GD](https://linkedin.com/in/surya-aditya-gd-)
-* **Community**: [Gamedev PKU](https://github.com/saditya2610)
+* **Community**: [Gamedev PKU]([https://github.com/saditya2610](https://gamedevpku.vercel.app/)
 
 <div align="center">
 
