@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Surya Aditya GD (Sadit)
-### **IT Lecturer | Intelligent Multimedia Researcher | Game Dev & Content Creator**
+### **IT Practice | Intelligent Multimedia Researcher | Game Dev & Content Creator**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-aditya-gd-)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SADITID)
@@ -15,7 +15,7 @@
 
 Seorang pengajar dan praktisi IT yang berfokus pada **Teknologi Multimedia Cerdas**, **Pengembangan Game**, serta **Information Retrieval & Machine Learning**. Saat ini aktif mengajar, meneliti, dan membangun komunitas teknologi.
 
-* 🎓 **Academic**: Dosen S1 Teknik Informatika di **Universitas Abdurrab** & Mahasiswa Pascasarjana **Universitas AMIKOM Yogyakarta** (Konsentrasi: *Big Predictive Data & Analytic*).
+* 🎓 **Academic**: Asisten Dosen S1 Teknik Informatika di **Universitas Abdurrab** & Mahasiswa Pascasarjana **Universitas AMIKOM Yogyakarta** (Konsentrasi: *Big Predictive Data & Analytic*).
 * 🎮 **Community Lead**: Manager & Coordinator di **Gamedev PKU** (Komunitas Game Developer Pekanbaru).
 * 🎬 **Content Creator**: Pemilik channel YouTube **SADIT ID** — Mengulas analisis industri game, teknis game engine, serta *hardware benchmark*.
 * 🔬 **Research Focus**: *Information Retrieval*, *DNN*,*AI Researcher*,*Semantic Representation* (Ensemble Word Embeddings: Word2Vec, FastText, GloVe), dan *Game Engine Architecture*.
